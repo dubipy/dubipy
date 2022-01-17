@@ -15,4 +15,4 @@ and I like to cook meat.&nbsp;:meat_on_bone:&nbsp;:meat_on_bone:
 <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white"/><br>
 
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimhaeryun&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dubipy&show_icons=true&theme=radical)
